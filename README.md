@@ -14,3 +14,5 @@ So you need "mex" to compile the code in MATLAB as below:
 > mex --setup C++
 
 > mex NSS.cpp
+
+Run the file /main/run.m to see the demo.
