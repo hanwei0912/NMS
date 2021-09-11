@@ -19,7 +19,7 @@ Run the file /main/run.m to see the demo.
 
 -----------------------------------
     MOEA/D by Nelder-Mead method
-    Copyright (C) 2020 Hanwei Zhang -  East China Normal University
+    Copyright (C) 2017 Hanwei Zhang -  East China Normal University
 
     MOEA/D by Nelder-Mead method is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
